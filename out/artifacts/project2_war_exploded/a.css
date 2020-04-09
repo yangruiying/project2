@@ -1,0 +1,17 @@
+
+table
+{
+	position: margin auto;
+}
+
+td
+{
+	width: 1000px;
+	padding: 10px;
+}
+#head
+{
+	background-color: rgb(52,142,191);
+	color: black;
+	font-weight: bold;
+}

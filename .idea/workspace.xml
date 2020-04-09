@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bc83530-3b86-4536-a1e6-98f36294691f" name="Default Changelist" comment="aa">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/project2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/project2_war_exploded2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id_card/d0affe1725cf39e40c1f0d54b952604e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id_card/df4f611600c63e7707e38925f36671ea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id_card/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/WEB-INF/classes/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/WEB-INF/classes/META-INF/project2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/WEB-INF/classes/com/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/aaa.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/account.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/accountadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/accountindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/addAccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/addaccountcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/agree.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/apply.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/applyadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/applycheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/applyindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/assignment - 副本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/assignment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/assignmentadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/assignmentindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/class.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/class1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/classadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/classindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/conn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/courseadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/courseindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/bootstrap.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/jquery.DonutWidget.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/jquerysctipttop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/linearicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/main.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/main1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/css/theme/pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/find.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/findcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/idCardCheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/id_card.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/6680709_123854250117_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/air-balloon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/air-balloon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/login-foot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/images/logo-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/ads-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/blog-home-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/cat-widget1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/cat-widget2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/cat-widget3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/feature-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/feature-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/feature-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/feature-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/feature-img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/next.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/post-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/post-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/pp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/pp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/pp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/pp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/prev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/s-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/blog/user-info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/disabled-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/disabled-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/primary-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/primary-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/success-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/elements/success-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/faculty/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/faculty/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/faculty/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/faculty/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/fav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/testimonial/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/testimonial/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/testimonial/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/img/testimonial/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/DD_belatedPNG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/fun.base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/hoverIntent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/jQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/owl-carousel-thumb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/superfish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/superfish.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/vendor/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/vendor/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/logincheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/modifyaccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/modifyaccountcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/modifyaccountwrite.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/quit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/refuse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/schedule.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/scheduleadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/scheduledelete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/scheduleindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/showIdCard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/student1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/teacherfind.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/teacherindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/text.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/textadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/textbook1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/textindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/readme-en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/bargraph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/color_ranges.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/date.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/imgs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/project2_war_exploded/util/src/visual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/META-INF/project2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/aaa.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/account.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/accountadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/accountindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/addAccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/addaccountcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/agree.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/apply.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/applyadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/applycheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/applyindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assignment - 副本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assignment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assignmentadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assignmentindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/class.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/class1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/classadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/classindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/conn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/courseadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/courseindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/jquery.DonutWidget.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/jquerysctipttop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/linearicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/main.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/main1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/theme/pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/find.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/findcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/idCardCheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/id_card.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/6680709_123854250117_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/air-balloon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/air-balloon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/login-foot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/ads-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/blog-home-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/cat-widget1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/cat-widget2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/cat-widget3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/feature-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/feature-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/feature-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/feature-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/feature-img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/next.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/post-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/post-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/pp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/pp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/pp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/pp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/prev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/s-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/blog/user-info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/disabled-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/disabled-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/primary-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/primary-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/success-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/elements/success-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/faculty/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/faculty/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/faculty/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/faculty/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/fav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/testimonial/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/testimonial/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/testimonial/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/testimonial/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/DD_belatedPNG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/fun.base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/hoverIntent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/owl-carousel-thumb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/superfish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/superfish.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/vendor/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/vendor/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/logincheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/modifyaccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/modifyaccountcheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/modifyaccountwrite.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/quit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/refuse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/schedule.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scheduleadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scheduledelete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scheduleindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/showIdCard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/teacherfind.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/teacherindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/text.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/textadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/textbook1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/textindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/readme-en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/bargraph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/color_ranges.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/date.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/imgs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/util/src/visual.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/applycheck.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="208" column="22" lean-forward="true" selection-start-line="208" selection-start-column="22" selection-end-line="208" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/applyindex.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="85" column="91" selection-start-line="85" selection-start-column="91" selection-end-line="85" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/delete.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/assignment.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7259">
+              <caret line="427" column="242" selection-start-line="427" selection-start-column="242" selection-end-line="427" selection-end-column="242" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>write</find>
+      <find>任课老师</find>
+      <find>xls</find>
+      <find>table</find>
+      <find>教课人数</find>
+      <find>年级</find>
+      <find>已分配该课程</find>
+      <find>上课老师</find>
+      <find>导出</find>
+      <find>Test</find>
+      <find>取消申请</find>
+      <find>班级</find>
+      <find>删除</find>
+      <find>同意</find>
+      <find>check</find>
+      <find>session</find>
+      <find>id</find>
+      <find>已分配</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/src/FaceTest.java" />
+        <option value="$PROJECT_DIR$/src/Demo2.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/login.html" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/register.jsp" />
+        <option value="$PROJECT_DIR$/web/js/register.jsp" />
+        <option value="$PROJECT_DIR$/web/apply.jsp" />
+        <option value="$PROJECT_DIR$/web/agree.jsp" />
+        <option value="$PROJECT_DIR$/web/aaa.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo2.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/accountindex.jsp" />
+        <option value="$PROJECT_DIR$/web/classindex.jsp" />
+        <option value="$PROJECT_DIR$/web/textindex.jsp" />
+        <option value="$PROJECT_DIR$/web/courseindex.jsp" />
+        <option value="$PROJECT_DIR$/web/teacherindex.jsp" />
+        <option value="$PROJECT_DIR$/web/logincheck.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/idCardCheck.jsp" />
+        <option value="$PROJECT_DIR$/web/index1.jsp" />
+        <option value="$PROJECT_DIR$/web/showIdCard.jsp" />
+        <option value="$PROJECT_DIR$/web/idCardCheck.jsp" />
+        <option value="$PROJECT_DIR$/web/assignmentindex.jsp" />
+        <option value="$PROJECT_DIR$/web/conn.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test.java" />
+        <option value="$PROJECT_DIR$/web/delete.jsp" />
+        <option value="$PROJECT_DIR$/web/applyindex.jsp" />
+        <option value="$PROJECT_DIR$/web/assignment.jsp" />
+        <option value="$PROJECT_DIR$/web/applycheck.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mvnrep" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1135" />
+    <option name="height" value="910" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\软件搬家\Desktop\javaProject\project2\web\WEB-INF" />
+      <recent name="D:\软件搬家\Desktop\javaProject\project2\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\软件搬家\Desktop\javaProject\project2\web\WEB-INF" />
+      <recent name="D:\软件搬家\Desktop\project2\web\js" />
+      <recent name="D:\软件搬家\Desktop\project2\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.24">
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo2" />
+      <module name="project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.24" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/project2_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="project2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/project2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_project2_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51427" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="project2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/project2_war_exploded/login.html" />
+      <option name="BROWSER_ID" value="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="project2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/project2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_project2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59193" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="project2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Tomcat Server.Tomcat 10.0.24" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.24" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bc83530-3b86-4536-a1e6-98f36294691f" name="Default Changelist" comment="" />
+      <created>1585137893109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585137893109</updated>
+      <workItem from="1585137897194" duration="2417000" />
+      <workItem from="1585140369634" duration="9209000" />
+      <workItem from="1585187038879" duration="2231000" />
+      <workItem from="1585194236329" duration="53000" />
+      <workItem from="1585194449261" duration="3850000" />
+      <workItem from="1585202586445" duration="858000" />
+      <workItem from="1585203489887" duration="51000" />
+      <workItem from="1585203609786" duration="66000" />
+      <workItem from="1585203709477" duration="111000" />
+      <workItem from="1585213047871" duration="11387000" />
+      <workItem from="1585275601250" duration="27000" />
+      <workItem from="1585280159798" duration="643000" />
+      <workItem from="1585374859701" duration="13992000" />
+      <workItem from="1585408254883" duration="1282000" />
+      <workItem from="1585455108974" duration="19865000" />
+      <workItem from="1585528647294" duration="30000" />
+      <workItem from="1585529524847" duration="12465000" />
+      <workItem from="1585566272568" duration="4791000" />
+      <workItem from="1585614810279" duration="496000" />
+      <workItem from="1585643228113" duration="369000" />
+      <workItem from="1585644757389" duration="12226000" />
+      <workItem from="1585701609876" duration="1225000" />
+      <workItem from="1585727922953" duration="17843000" />
+      <workItem from="1585755381265" duration="600000" />
+      <workItem from="1585792079481" duration="1994000" />
+      <workItem from="1585880331146" duration="2482000" />
+      <workItem from="1585904010698" duration="1376000" />
+      <workItem from="1585923740425" duration="604000" />
+      <workItem from="1586066660260" duration="2586000" />
+      <workItem from="1586073260224" duration="1555000" />
+      <workItem from="1586152485396" duration="1844000" />
+      <workItem from="1586177893951" duration="1212000" />
+      <workItem from="1586219967621" duration="4467000" />
+      <workItem from="1586306142161" duration="28000" />
+      <workItem from="1586408012114" duration="2310000" />
+      <workItem from="1586424046110" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136809000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8541077" visible="true" weight="0.16152816" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.14589235" side_tool="true" visible="true" weight="0.16152816" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41018388" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28854313" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3281471" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.41867045" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="s.length()" />
+        <watch expression="s.charAt(i)" />
+        <watch expression="base" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/class1.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/classadd.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/applyadd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/apply.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="156" column="30" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/agree.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/textbook1.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/student.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/show.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/findcheck.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/find.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/teacherfind.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/student1.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/classindex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="69" column="95" selection-start-line="69" selection-start-column="95" selection-end-line="69" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/textindex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="58" column="99" lean-forward="true" selection-start-line="58" selection-start-column="99" selection-end-line="58" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/courseindex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="74" column="86" lean-forward="true" selection-start-line="74" selection-start-column="86" selection-end-line="74" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/aaa.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/visual.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3190">
+          <caret line="5256" lean-forward="true" selection-start-line="5256" selection-end-line="5256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Historical-ranking-data-visualization-based-on-d3.js-master/src/aaa.csv" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/aaa2.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/teacherindex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="46" column="100" selection-start-line="46" selection-start-column="100" selection-end-line="46" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/idCardCheck.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/textadd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="154" column="37" lean-forward="true" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="63" column="69" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/showIdCard.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/id_card.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scheduleadd.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scheduledelete.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/modifyaccountwrite.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/idCardCheck.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/conn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/accountadd.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/logincheck.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/accountindex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="96" selection-start-line="68" selection-start-column="96" selection-end-line="68" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/addAccount.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assignmentindex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6069">
+          <caret line="357" column="355" selection-start-line="357" selection-start-column="353" selection-end-line="357" selection-end-column="355" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assignmentadd.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/login-foot.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/logo-login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/air-balloon-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/air-balloon-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/6680709_123854250117_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/applycheck.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="208" column="22" lean-forward="true" selection-start-line="208" selection-start-column="22" selection-end-line="208" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/applyindex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="91" selection-start-line="85" selection-start-column="91" selection-end-line="85" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/delete.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assignment.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7259">
+          <caret line="427" column="242" selection-start-line="427" selection-start-column="242" selection-end-line="427" selection-end-column="242" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>project2:war exploded2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
